@@ -1,0 +1,15 @@
+# Ignore IDEA directory
+*.iml
+.idea/*
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Kotlin project-specific cache directory
+.kotlin
+
+# Ignore Gradle build output directory
+build
+
+# Ingore Mac specific directory
+.DS_Store
