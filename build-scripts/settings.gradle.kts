@@ -1,4 +1,4 @@
-rootProject.name = "configuration-cache-problems"
+rootProject.name = "build-scripts"
 
 pluginManagement {
     repositories {
@@ -13,7 +13,3 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-includeBuild("build-scripts")
-
-include(":lib")

@@ -1,0 +1,9 @@
+[versions]
+
+# Jetbrains Kotlin
+kotlin = "2.1.10"
+
+[plugins]
+
+# Jetbrains Kotlin
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
